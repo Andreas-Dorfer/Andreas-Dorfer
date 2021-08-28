@@ -6,5 +6,4 @@ My preferred languages / technologies / libraries / tools are:
 - .NET and ASP.NET
 - Azure
 - Cosmos DB and SQL Server
-- MSTest and FsCheck
-- Angular
+- FsCheck
